@@ -17,7 +17,8 @@
 - ☁️ **Cloud:** Azure 
 - 🔧 **IaC:** Terraform, ARM Templates  
 - 🔄 **CI/CD:** GitHub Actions, Azure DevOps 
-- 📜 **Scripting:** Bash, PowerShell, YAML  
+- 📜 **Scripting:** Bash, Linux, YAML
+- 📁 Version Control	Git, GitHub
 
 ---
 
