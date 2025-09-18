@@ -17,34 +17,41 @@
 ☁️ Cloud: Azure  
 🛠️ IaC: Terraform, ARM Templates  
 ⚙️ CI/CD: GitHub Actions, Azure DevOps  
+🐳 Containers: Docker, Kubernetes (basic)  
 💻 Scripting: Bash, Linux, YAML  
 📂 Version Control: Git, GitHub  
 
 ---
 
 ## 📂 Featured Projects  
-1. Todo Pipeline
 
-🔹 Designed & implemented a CI/CD pipeline in Azure DevOps
-🔹 Automated build, test, and deployment stages for application delivery
+- **Todo Pipeline**  
+  🔹 Designed & implemented a CI/CD pipeline in Azure DevOps  
+  🔹 Automated build, test, and deployment stages for application delivery  
 
-2. Virtual Machine Deployment
+- **Virtual Machine Deployment**  
+  🔹 Automated VM provisioning on Azure using Terraform  
+  🔹 Reduced manual setup effort by **80%** with Infrastructure as Code  
 
-🔹 Automated VM provisioning on Azure using Terraform
-🔹 Reduced manual setup effort by 80% with Infrastructure as Code
-
-3. ToDoApp Infra with Terraform
-
-🔹 Complete Infrastructure setup on Azure (Resource Group, VNet, VM, DB)
-🔹 One-click Terraform deployment for end-to-end environment provisioning
+- **ToDoApp Infra with Terraform**  
+  🔹 Complete Infrastructure setup on Azure (Resource Group, VNet, VM, DB)  
+  🔹 One-click Terraform deployment for end-to-end environment provisioning  
 
 ---
 
 ## 📫 Connect With Me  
 📍 Location: Noida, India  
-📧 Email: pradumprajapati482@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/<your-id>  
+📧 Email: **pradumprajapati482@gmail.com**  
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-id)  
 
 ---
 
-💡 "Automating today for a faster tomorrow."
+## 📊 GitHub Stats  
+
+![Pradum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradum9754&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradum9754&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradum9754&theme=tokyonight)  
+
+---
+
+💡 *“Automating today for a faster tomorrow.”*  
