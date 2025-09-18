@@ -17,7 +17,6 @@
 ☁️ Cloud: Azure  
 🛠️ IaC: Terraform, ARM Templates  
 ⚙️ CI/CD: GitHub Actions, Azure DevOps  
-🐳 Containers: Docker, Kubernetes (basic)  
 💻 Scripting: Bash, Linux, YAML  
 📂 Version Control: Git, GitHub  
 
