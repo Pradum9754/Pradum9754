@@ -7,7 +7,7 @@
 ## 💼 About Me  
 - 🔹 DevOps Engineer with hands-on experience in **Azure Cloud & Infrastructure as Code (Terraform)**  
 - 🔹 Skilled in building **scalable, secure, and automated cloud solutions**  
-- 🔹 Experienced in **CI/CD pipelines** (Azure DevOps, GitHub Actions)  
+- 🔹 Experienced in **CI/CD pipelines** (Azure DevOps)  
 - 🔹 Knowledge of **DevSecOps & Cloud Security Best Practices**  
 - 🔹 Passionate about **automation & bridging the gap between Development & Operations**  
 
@@ -16,7 +16,7 @@
 ## ⚡ Tech Stack  
 ☁️ Cloud: Azure  
 🛠️ IaC: Terraform, ARM Templates  
-⚙️ CI/CD: GitHub Actions, Azure DevOps  
+⚙️ CI/CD: Azure DevOps  
 💻 Scripting: Bash, Linux, YAML  
 📂 Version Control: Git, GitHub  
 
@@ -41,7 +41,7 @@
 ## 📫 Connect With Me  
 📍 Location: Noida, India  
 📧 Email: **pradumprajapati482@gmail.com**  
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-id)  
+💼 LinkedIn: https://www.linkedin.com/in/pradum-prajapati-790155199/ 
 
 ---
 
