@@ -1,378 +1,658 @@
-# 👋 Hi, I'm Pradum Prajapati
+# 🚀 VARISEN Enterprise Azure App Platform
 
-### DevOps / DevSecOps Engineer | Azure | Terraform | Kubernetes | CI/CD | Platform Engineering
+### Enterprise-Style Azure Infrastructure | Terraform | DevOps | DevSecOps | Cloud Platform Engineering
 
-> **I build, automate, secure, and operate cloud infrastructure — with Infrastructure as Code and production-minded engineering.**
-
-I specialize in designing **Azure-based cloud infrastructure**, implementing **Infrastructure as Code with Terraform**, building **CI/CD pipelines**, deploying workloads on **Kubernetes/AKS**, and integrating **DevSecOps practices** into the software delivery lifecycle.
+> **A production-minded Azure platform engineered with Infrastructure as Code, modular Terraform, cloud networking, automation, security, and operational best practices.**
 
 ---
 
-## 🚀 What I Build
+## 🧭 Project Overview
+
+**VARISEN Enterprise Azure App Platform** is an Azure cloud infrastructure platform designed around the principles used in modern DevOps and Platform Engineering environments.
+
+The platform focuses on making infrastructure:
+
+* ♻️ **Reproducible**
+* 🧩 **Modular**
+* 🔐 **Secure**
+* 🚀 **Automated**
+* 📊 **Observable**
+* 📈 **Scalable**
+* 🛠️ **Operationally maintainable**
+
+Instead of manually creating Azure resources through the portal, infrastructure is defined and managed using **Terraform**.
+
+---
+
+# 🏛️ Architecture
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    CLOUD PLATFORM                           │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  GitHub ──► CI/CD ──► Security ──► Terraform ──► Azure     │
-│                                      │                      │
-│                                      ├── Resource Groups     │
-│                                      ├── VNet / Subnets     │
-│                                      ├── Compute             │
-│                                      ├── ACR                │
-│                                      ├── AKS                │
-│                                      └── Load Balancing      │
-│                                                             │
-│                 Monitoring & Observability                  │
-│                    Prometheus + Grafana                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                                  ┌──────────────────────┐
+                                  │      Developer       │
+                                  └──────────┬───────────┘
+                                             │
+                                             ▼
+                                  ┌──────────────────────┐
+                                  │       GitHub         │
+                                  │   Source Control     │
+                                  └──────────┬───────────┘
+                                             │
+                                             ▼
+                              ┌────────────────────────────┐
+                              │       CI/CD Pipeline        │
+                              ├────────────────────────────┤
+                              │ Terraform Validate         │
+                              │ Security Scanning           │
+                              │ Terraform Plan              │
+                              │ Approval / Review            │
+                              │ Terraform Apply              │
+                              └──────────────┬─────────────┘
+                                             │
+                                             ▼
+                              ┌────────────────────────────┐
+                              │         Terraform           │
+                              │     Infrastructure as Code  │
+                              └──────────────┬─────────────┘
+                                             │
+                     ┌───────────────────────┼───────────────────────┐
+                     │                       │                       │
+                     ▼                       ▼                       ▼
+             ┌──────────────┐       ┌──────────────┐       ┌──────────────┐
+             │ Azure Network│       │   Compute    │       │  Containers  │
+             │              │       │              │       │              │
+             │ VNet         │       │ VM           │       │ ACR          │
+             │ Subnets      │       │ NSG          │       │ AKS          │
+             │ Networking   │       │ Public IP    │       │ Docker       │
+             └──────┬───────┘       └──────────────┘       └──────┬───────┘
+                    │                                             │
+                    └──────────────────┬──────────────────────────┘
+                                       │
+                                       ▼
+                              ┌────────────────────┐
+                              │   Application      │
+                              │     Platform       │
+                              └──────────┬─────────┘
+                                         │
+                                         ▼
+                              ┌────────────────────┐
+                              │ Observability      │
+                              │                    │
+                              │ Prometheus         │
+                              │ Grafana             │
+                              │ Azure Monitor      │
+                              └────────────────────┘
 ```
 
 ---
 
-# 🧰 Technology Stack
+# 🎯 Engineering Objectives
 
-### ☁️ Cloud
+The platform was designed around several core engineering objectives.
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-**Microsoft Azure**
-
-* Azure Virtual Network
-* Subnets
-* NSG
-* Load Balancer
-* Virtual Machines
-* Azure Container Registry
-* Azure Kubernetes Service
-* Azure Storage
-* Azure DevOps
-* Azure Monitor
-
----
-
-### 🏗️ Infrastructure as Code
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-
-**Terraform**
-
-* Modular Infrastructure
-* Remote State
-* Azure Blob Backend
-* `for_each`
-* Dynamic Blocks
-* Variables & Outputs
-* Environment-based infrastructure
-* Infrastructure lifecycle management
+| Objective                 | Implementation                |
+| ------------------------- | ----------------------------- |
+| Infrastructure Automation | Terraform                     |
+| Cloud Platform            | Microsoft Azure               |
+| Infrastructure Modularity | Terraform Modules             |
+| Source Control            | Git / GitHub                  |
+| CI/CD                     | Azure DevOps / GitHub Actions |
+| Containers                | Docker                        |
+| Orchestration             | Kubernetes / AKS              |
+| Security                  | TFSEC / Checkov / TFLint      |
+| Code Quality              | SonarQube                     |
+| Monitoring                | Prometheus / Grafana          |
+| State Management          | Azure Blob Storage            |
+| Networking                | Azure VNet / Subnets / NSG    |
 
 ---
 
-### ☸️ Containers & Kubernetes
+# 🧩 Infrastructure Components
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+## ☁️ Azure Resources
 
-* Docker
-* Docker Networking
-* Kubernetes
-* AKS
-* Kind
-* Deployments
-* Services
-* ConfigMaps
-* Secrets
-* Probes
-* Scaling
-* Troubleshooting
-
----
-
-### 🔄 CI/CD
-
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-
-* Azure DevOps YAML Pipelines
-* GitHub Actions
-* Jenkins
-* Build & Release Automation
-* Terraform Plan / Apply
-* Artifact Management
-* Deployment Automation
-
----
-
-### 🔐 DevSecOps
-
-* TFSEC
-* Checkov
-* TFLint
-* SonarQube
-* Infrastructure Security Scanning
-* Secret Protection
-* Shift-Left Security
-* CI/CD Security Gates
-
----
-
-### 📊 Monitoring & Observability
-
-* Prometheus
-* Grafana
-* Azure Monitor
-* Application / Infrastructure Metrics
-* Alerting
-* Dashboarding
-
----
-
-# ⭐ Featured Project
-
-## 🚀 VARISEN Enterprise Azure App Platform
-
-> **Enterprise-style Azure infrastructure engineered with Terraform, automation, networking, security, and cloud-native deployment principles.**
-
-### Architecture
+The platform can be extended around the following Azure building blocks:
 
 ```text
-                         ┌──────────────────┐
-                         │     Developer    │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     GitHub       │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────┐
-                    │       CI/CD Pipeline    │
-                    ├─────────────────────────┤
-                    │ Build                   │
-                    │ Validate                │
-                    │ Security Scan           │
-                    │ Terraform Plan          │
-                    │ Terraform Apply         │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       Terraform         │
-                    │     Infrastructure      │
-                    └────────────┬────────────┘
-                                 │
-                ┌────────────────┴────────────────┐
-                │                                 │
-                ▼                                 ▼
-       ┌─────────────────┐              ┌─────────────────┐
-       │      Azure      │              │    Security     │
-       │   Networking    │              │    Controls     │
-       └────────┬────────┘              └─────────────────┘
-                │
-                ├──────── VNet
-                ├──────── Subnets
-                ├──────── NSG
-                ├──────── Compute
-                ├──────── ACR
-                ├──────── AKS
-                └──────── Load Balancing
-                              │
-                              ▼
-                     ┌──────────────────┐
-                     │  Observability   │
-                     │ Prometheus/Grafana│
-                     └──────────────────┘
+Resource Group
+│
+├── Virtual Network
+│   ├── Application Subnet
+│   ├── Infrastructure Subnet
+│   └── Additional Workload Subnets
+│
+├── Network Security Groups
+│
+├── Public IP
+│
+├── Load Balancer
+│
+├── Virtual Machines
+│
+├── Azure Container Registry
+│
+├── Azure Kubernetes Service
+│
+└── Storage
+    └── Terraform Remote State
 ```
 
-### Engineering Focus
+---
 
-* Infrastructure as Code
-* Reusable Terraform modules
-* Azure networking
-* Remote Terraform state
-* Containerized workloads
-* Kubernetes deployment
-* CI/CD automation
-* Infrastructure security
-* Monitoring & observability
-* Production troubleshooting
+# 🏗️ Terraform Architecture
 
-👉 **Repository:**
-[VARISEN Enterprise Azure App Platform](https://github.com/Pradum9754/VARISEN-ENTERPRISE-AZURE-APP-PLATFORM)
+The project follows a modular Infrastructure-as-Code approach.
+
+```text
+terraform/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── providers.tf
+├── versions.tf
+├── backend.tf
+│
+├── modules/
+│   ├── resource_group/
+│   ├── storage_account/
+│   ├── storage_container/
+│   ├── virtual_network/
+│   ├── subnet/
+│   ├── virtual_machine/
+│   └── ...
+│
+└── environments/
+    ├── dev/
+    └── prod/
+```
+
+### Why modules?
+
+Modules allow infrastructure components to be:
+
+* Reused
+* Versioned
+* Tested independently
+* Maintained consistently
+* Deployed across environments
 
 ---
 
-# 🏗️ How I Approach Infrastructure
+# 🔄 Infrastructure Lifecycle
 
 ```text
-Requirement
+                    ┌─────────────┐
+                    │   Define    │
+                    │   Config    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Terraform   │
+                    │  Validate   │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │   Security  │
+                    │    Scan     │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Terraform   │
+                    │    Plan     │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │   Review    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Terraform   │
+                    │    Apply    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │   Azure     │
+                    │ Infrastructure│
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │ Monitoring  │
+                    └─────────────┘
+```
+
+---
+
+# 🔐 DevSecOps Integration
+
+Security is treated as part of the infrastructure lifecycle.
+
+```text
+Code
+ │
+ ▼
+Terraform
+ │
+ ├──► TFLint
+ │
+ ├──► TFSEC
+ │
+ ├──► Checkov
+ │
+ └──► Validation
+        │
+        ▼
+   Terraform Plan
+        │
+        ▼
+     Review
+        │
+        ▼
+   Terraform Apply
+```
+
+### Security objectives
+
+* Detect insecure Terraform configurations
+* Identify misconfigured cloud resources
+* Prevent accidental secret exposure
+* Improve infrastructure quality
+* Shift security left into CI/CD
+
+---
+
+# 🗄️ Terraform Remote State
+
+Terraform state is designed to be stored remotely using **Azure Blob Storage**.
+
+```text
+Terraform
+    │
+    ▼
+Azure Storage Account
+    │
+    └── Terraform State Container
+             │
+             └── terraform.tfstate
+```
+
+### Benefits
+
+* Centralized state
+* Team collaboration
+* State persistence
+* Reduced local-state dependency
+* Better operational control
+
+> **Terraform state is treated as infrastructure data, not application source code.**
+
+---
+
+# 🚀 CI/CD Strategy
+
+The desired deployment lifecycle follows:
+
+```text
+Pull Request
      │
      ▼
-Architecture
+Code Validation
      │
      ▼
-Infrastructure as Code
-     │
-     ▼
-Validation
-     │
-     ▼
-Security Scan
+Security Scanning
      │
      ▼
 Terraform Plan
      │
      ▼
-Review
+Review / Approval
      │
      ▼
 Terraform Apply
      │
      ▼
-Deployment
+Azure Deployment
      │
      ▼
 Monitoring
-     │
-     ▼
-Continuous Improvement
 ```
 
-> **Infrastructure should be reproducible, secure, observable, and recoverable.**
+This creates a controlled path from **code change → infrastructure change → cloud deployment**.
 
 ---
 
-# 🧠 Production Problems I Work With
+# ☸️ Container & Kubernetes Layer
+
+The platform is designed to support containerized workloads.
+
+```text
+Developer
+    │
+    ▼
+Docker Build
+    │
+    ▼
+Container Image
+    │
+    ▼
+Azure Container Registry
+    │
+    ▼
+AKS
+    │
+    ├── Deployment
+    ├── Service
+    ├── ConfigMap
+    ├── Secret
+    └── Scaling
+```
+
+---
+
+# 📊 Observability
+
+Infrastructure without observability is difficult to operate reliably.
+
+The platform incorporates monitoring concepts using:
+
+### Prometheus
+
+* Metrics collection
+* Infrastructure monitoring
+* Kubernetes metrics
+
+### Grafana
+
+* Dashboards
+* Visualization
+* Operational visibility
+* Alerting concepts
+
+### Azure Monitor
+
+* Azure resource monitoring
+* Platform metrics
+* Diagnostic visibility
+
+---
+
+# 🧪 Validation & Quality
+
+Before infrastructure reaches Azure, configuration should pass multiple validation stages.
+
+```text
+Terraform Format
+       ↓
+Terraform Validate
+       ↓
+TFLint
+       ↓
+TFSEC
+       ↓
+Checkov
+       ↓
+Terraform Plan
+       ↓
+Review
+```
+
+---
+
+# 🛠️ Troubleshooting Scenarios
+
+This project is also designed as a practical troubleshooting environment.
 
 ### Terraform
 
-* State locking
-* State management
+* State lock problems
+* Backend configuration errors
 * Provider issues
-* Resource dependency problems
+* Resource dependency failures
+* Invalid resource attributes
 * Terraform drift
-* Module design
-* `for_each` / dynamic resources
-* Backend configuration
-* Plan / Apply failures
+* Module dependency problems
 
 ### Azure
 
-* VNet & subnet configuration
-* NSG rules
+* Resource Group failures
+* VNet / subnet configuration
+* IP address conflicts
+* NSG issues
 * Load Balancer configuration
 * VM connectivity
-* Private/Public IP issues
-* Azure resource dependencies
-* Authentication and authorization
+* Azure resource dependency errors
 
-### Kubernetes / AKS
+### Kubernetes
 
 * `CrashLoopBackOff`
 * `ImagePullBackOff`
 * Pending Pods
 * Service connectivity
-* DNS issues
-* Readiness / liveness failures
+* Readiness probe failures
 * Resource exhaustion
 * Deployment failures
-* Scaling problems
 
 ### CI/CD
 
-* Pipeline failures
-* Authentication issues
-* Terraform deployment failures
-* Artifact problems
-* Security gate failures
-* Environment configuration
-* Deployment rollback
+* Pipeline authentication
+* Terraform Plan failures
+* Terraform Apply failures
+* Agent issues
+* Security scan failures
+* Deployment failures
 
 ---
 
-# 🔐 DevSecOps Mindset
+# 💰 Cost-Aware Engineering
 
-I believe security should be integrated into the delivery pipeline rather than added after deployment.
+Cloud infrastructure should not only work — it should be economically responsible.
+
+Key considerations:
+
+* Right-size compute resources
+* Avoid unnecessary public IPs
+* Use appropriate storage tiers
+* Destroy unused environments
+* Monitor resource consumption
+* Review infrastructure before deployment
+
+> **Architecture decisions should consider reliability, security, performance, and cost together.**
+
+---
+
+# 🧠 Engineering Decisions
+
+### Why Terraform?
+
+Because infrastructure should be:
+
+**Version-controlled + reproducible + reviewable + automated.**
+
+### Why modular architecture?
+
+Because repeated infrastructure should become reusable building blocks.
+
+### Why CI/CD?
+
+Because infrastructure changes should follow a controlled and auditable process.
+
+### Why DevSecOps?
+
+Because security should be part of the delivery pipeline rather than a final checkpoint.
+
+### Why observability?
+
+Because deployed infrastructure needs operational visibility.
+
+---
+
+# 📁 Repository Structure
 
 ```text
-Developer
-    ↓
-Code
-    ↓
-Static Analysis
-    ↓
-Infrastructure Security
-    ↓
-Terraform Validation
-    ↓
+VARISEN-ENTERPRISE-AZURE-APP-PLATFORM/
+│
+├── modules/
+│
+├── environments/
+│
+├── terraform/
+│
+├── kubernetes/
+│
+├── scripts/
+│
+├── pipelines/
+│
+├── docs/
+│
+├── .gitignore
+├── .terraform.lock.hcl
+├── README.md
+└── ...
+```
+
+> Repository structure may evolve as the platform expands.
+
+---
+
+# 🚦 Getting Started
+
+### 1. Clone
+
+```bash
+git clone https://github.com/Pradum9754/VARISEN-ENTERPRISE-AZURE-APP-PLATFORM.git
+```
+
+### 2. Enter the project
+
+```bash
+cd VARISEN-ENTERPRISE-AZURE-APP-PLATFORM
+```
+
+### 3. Initialize Terraform
+
+```bash
+terraform init
+```
+
+### 4. Validate
+
+```bash
+terraform validate
+```
+
+### 5. Format
+
+```bash
+terraform fmt -recursive
+```
+
+### 6. Review Infrastructure
+
+```bash
+terraform plan
+```
+
+### 7. Deploy
+
+```bash
+terraform apply
+```
+
+---
+
+# ⚠️ Security Notice
+
+Never commit real credentials to source control.
+
+Do not expose:
+
+```text
+Passwords
+Client Secrets
+API Keys
+Private Keys
+Access Tokens
+Service Principal Secrets
+Production Credentials
+```
+
+Use secure mechanisms such as:
+
+* Azure Key Vault
+* Environment Variables
+* CI/CD Secret Variables
+* Managed Identity
+* GitHub Secrets
+
+---
+
+# 📚 What This Project Demonstrates
+
+This repository demonstrates practical understanding of:
+
+```text
+Azure
+   +
+Terraform
+   +
+Networking
+   +
+Containers
+   +
+Kubernetes
+   +
 CI/CD
-    ↓
-Deployment
-    ↓
-Monitoring
+   +
+DevSecOps
+   +
+Observability
+   +
+Cloud Operations
 ```
 
-Security tooling I work with:
-
-`TFSEC` · `Checkov` · `TFLint` · `SonarQube`
+More importantly, it demonstrates the ability to think beyond individual tools and design the **complete infrastructure lifecycle**.
 
 ---
 
-# 📚 Currently Building
-
-### The DevOps Interview & Architecture Handbook
-
-A structured collection of practical DevOps knowledge covering:
-
-* Terraform
-* Azure Architecture
-* Kubernetes & AKS
-* CI/CD
-* GitHub Actions
-* Azure DevOps
-* DevSecOps
-* Platform Engineering
-* Production Troubleshooting
-* Cloud Architecture
-
-> **Goal:** Understand systems deeply enough to design them, automate them, troubleshoot them, and explain the engineering decisions behind them.
-
----
-
-# 🎯 Engineering Philosophy
+# 🧭 Future Roadmap
 
 ```text
-Automate what is repeatable.
-Secure what is exposed.
-Monitor what is important.
-Document what is complex.
-Design for failure.
-Learn from production.
+[x] Terraform Infrastructure
+[x] Azure Networking
+[x] Modular Infrastructure
+[x] Remote State
+[ ] Production AKS Architecture
+[ ] GitOps with Argo CD
+[ ] Advanced Azure Monitoring
+[ ] Policy as Code
+[ ] Automated Cost Controls
+[ ] Multi-Environment Promotion
+[ ] Disaster Recovery Design
+[ ] Advanced Platform Engineering
 ```
 
 ---
 
-# 📈 GitHub Activity
+# 👨‍💻 Author
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradum9754\&show_icons=true\&theme=transparent\&hide_border=true)
+## Pradum Prajapati
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradum9754\&layout=compact\&theme=transparent\&hide_border=true)
+**DevOps / DevSecOps Engineer**
+
+Focused on:
+
+`Azure` · `Terraform` · `Kubernetes` · `Docker` · `CI/CD` · `DevSecOps` · `Platform Engineering`
 
 ---
 
-# 🤝 Let's Connect
+## ⭐ If you find this project useful
 
-I'm interested in opportunities involving:
+Feel free to explore the repository, open an issue, or connect with me.
 
-**DevOps · DevSecOps · Azure · Terraform · Kubernetes · Platform Engineering · Cloud Infrastructure**
-
-If you're building scalable cloud platforms or modern delivery infrastructure, let's connect.
+**Building infrastructure is easy. Building infrastructure that is reproducible, secure, observable, scalable, and maintainable is engineering.**
 
 ---
 
 ### ⚡ Build. Automate. Secure. Observe. Improve.
 
-**— Pradum Prajapati**
+**VARISEN Enterprise Azure App Platform**
