@@ -2,67 +2,29 @@
 
 ### DevOps / DevSecOps Engineer | Azure | Terraform | Kubernetes | CI/CD | Cloud Infrastructure
 
-> **I build, automate, secure, deploy, and monitor cloud infrastructure and applications using modern DevOps practices.**
+> I build, automate, secure, deploy, and monitor cloud infrastructure and applications using modern DevOps practices.
 
 I work across the complete delivery lifecycle — from **Infrastructure as Code and cloud networking** to **CI/CD, containerization, Kubernetes, security, application deployment, and observability**.
 
-My focus is not just learning tools, but understanding **how the tools work together to build reliable and repeatable engineering platforms.**
+My focus is on building **reproducible, secure, automated, and maintainable infrastructure and application delivery platforms.**
 
 ---
 
-## ⚡ What I Do
-
-```text
-                    ┌─────────────────────────┐
-                    │       SOURCE CODE       │
-                    │      Git / GitHub       │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │        CI / CD           │
-                    │ Azure DevOps / GitHub   │
-                    │        Actions           │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    │                         │
-                    ▼                         ▼
-             ┌─────────────┐          ┌─────────────┐
-             │ Application │          │Infrastructure│
-             │   Pipeline  │          │   Pipeline   │
-             └──────┬──────┘          └──────┬──────┘
-                    │                         │
-                    ▼                         ▼
-                Docker                  Terraform
-                    │                         │
-                    ▼                         ▼
-                   ACR                      Azure
-                    │
-                    ▼
-                 AKS / K8s
-                    │
-                    ▼
-           Prometheus + Grafana
-```
-
----
-
-# 🧠 Engineering Focus
+## ⚡ Core Engineering Skills
 
 ### ☁️ Cloud & Infrastructure
 
 * Microsoft Azure
 * Resource Groups
 * Virtual Networks & Subnets
-* NSG & Networking
+* NSG & Network Security
 * Load Balancers
+* Application Gateway
 * Virtual Machines
 * Storage Accounts
 * Azure Container Registry
-* Azure Kubernetes Service
+* Azure Kubernetes Service (AKS)
 * Azure Key Vault
-* Application Gateway
 * Private Endpoints
 * Azure SQL
 * Log Analytics
@@ -74,14 +36,13 @@ My focus is not just learning tools, but understanding **how the tools work toge
 
 * Terraform
 * Modular Terraform Architecture
+* Reusable Terraform Modules
 * Environment-based Infrastructure
 * Terraform Remote State
 * Azure Blob Backend
 * Variables & Outputs
 * `for_each`
 * Dynamic Blocks
-* Terraform Workspaces / Environment Strategies
-* Infrastructure Validation
 * Infrastructure Lifecycle Management
 
 ### 🔄 CI/CD & Automation
@@ -89,14 +50,14 @@ My focus is not just learning tools, but understanding **how the tools work toge
 * Azure DevOps
 * Azure DevOps YAML Pipelines
 * GitHub Actions
-* Infrastructure Pipelines
-* Application Pipelines
+* Jenkins
 * Multi-stage Pipelines
 * Jobs & Stages
 * Build → Test → Deploy
 * Terraform Plan / Apply
-* PR-based workflows
-* Deployment automation
+* PR-based Workflows
+* Infrastructure Pipelines
+* Application Pipelines
 
 ### 🐳 Containers & Kubernetes
 
@@ -104,22 +65,22 @@ My focus is not just learning tools, but understanding **how the tools work toge
 * Docker Networking
 * Docker Multi-stage Builds
 * Kubernetes
-* AKS
+* Azure Kubernetes Service (AKS)
 * Kind
 * Deployments
 * Services
 * ConfigMaps
 * Secrets
-* Probes
+* Readiness / Liveness Probes
 * Scaling
 * Kubernetes Troubleshooting
 * Helm
 
 ### 🔐 DevSecOps
 
-* TFSEC
-* Checkov
 * TFLint
+* TFSec
+* Checkov
 * SonarQube
 * Infrastructure Security Scanning
 * Static Code Analysis
@@ -136,73 +97,68 @@ My focus is not just learning tools, but understanding **how the tools work toge
 * Metrics
 * Dashboards
 * Alerting
-* Infrastructure Monitoring
 * Kubernetes Monitoring
 
 ### 🧪 Application & API
 
 * 3-Tier Applications
-* Frontend / Backend / Database Architecture
+* Monolithic Applications
+* Microservices Architecture
 * React
 * Flask
 * SQL Server
 * REST APIs
 * Postman
-* Monolithic Applications
-* Microservices Architecture
-* Containerized Applications
+* Dockerized Applications
 
-### 🛠️ Additional Engineering
+### 🛠️ Engineering Tools
 
 * Git
 * GitHub
-* Jenkins
 * Linux
 * Bash
 * PowerShell
 * Nginx
 * Packer
-* Custom Azure VM Images
-* Infrastructure Troubleshooting
+* JMeter
+* VS Code
 
 ---
 
-# 🏗️ How I Think About DevOps
-
-I look at DevOps as an **end-to-end engineering lifecycle**, not as a collection of individual tools.
+# 🏗️ DevOps Delivery Architecture
 
 ```text
-Requirement
-     │
-     ▼
-Architecture
-     │
-     ▼
-Infrastructure as Code
-     │
-     ▼
-Validation
-     │
-     ▼
-Security
-     │
-     ▼
-CI/CD
-     │
-     ▼
-Application Deployment
-     │
-     ▼
-Monitoring
-     │
-     ▼
-Troubleshooting
-     │
-     ▼
-Optimization
+                         SOURCE CODE
+                      Git / GitHub
+                           │
+                           ▼
+                    ┌───────────────┐
+                    │    CI / CD    │
+                    │               │
+                    │ Azure DevOps  │
+                    │ GitHub Actions│
+                    └───────┬───────┘
+                            │
+                 ┌──────────┴──────────┐
+                 │                     │
+                 ▼                     ▼
+          APPLICATION              INFRASTRUCTURE
+            PIPELINE                  PIPELINE
+                 │                     │
+                 ▼                     ▼
+              Docker               Terraform
+                 │                     │
+                 ▼                     ▼
+                ACR                   Azure
+                 │
+                 ▼
+              AKS / K8s
+                 │
+                 ▼
+        Prometheus + Grafana
 ```
 
-> **Build it. Automate it. Secure it. Deploy it. Observe it. Improve it.**
+My approach is to connect **application delivery and infrastructure automation** into a repeatable engineering workflow.
 
 ---
 
@@ -210,27 +166,31 @@ Optimization
 
 ## 🥇 VARISEN Enterprise Azure App Platform
 
-**Azure + Terraform + DevSecOps + Cloud Infrastructure**
+**Azure + Terraform + Kubernetes + DevSecOps + Cloud Infrastructure**
 
-A modular Azure infrastructure platform built around Infrastructure as Code, cloud networking, reusable Terraform modules, security practices, monitoring, and operational readiness.
+An enterprise-style Azure platform built using **Infrastructure as Code**, modular Terraform architecture, cloud networking, containerization, security practices, CI/CD, and observability.
 
-**Key areas:**
+### Key Areas
 
-* Modular Terraform
+* Modular Terraform Architecture
 * Azure Networking
 * Resource Groups
-* Subnets & NSGs
+* VNet / Subnets / NSGs
 * Azure Compute
-* ACR / AKS
+* Azure Container Registry
+* Azure Kubernetes Service
 * Application Gateway
-* Key Vault
+* Azure Key Vault
 * Private Endpoints
 * Azure SQL
 * Log Analytics
-* Monitoring
-* Remote Terraform State
-* CI/CD integration
-* Security scanning
+* Azure Monitor
+* Prometheus & Grafana
+* Terraform Remote State
+* DevSecOps Integration
+* CI/CD Automation
+
+**Repository:** `VARISEN-ENTERPRISE-AZURE-APP-PLATFORM`
 
 ---
 
@@ -242,161 +202,133 @@ Infrastructure and application deployment architecture covering:
 
 ```text
 Frontend
-   ↓
+    │
+    ▼
 Backend
-   ↓
+    │
+    ▼
 Database
-   ↓
+    │
+    ▼
 Azure Infrastructure
-   ↓
+    │
+    ▼
 Terraform
-   ↓
+    │
+    ▼
 CI/CD
 ```
 
-Demonstrates how application delivery and infrastructure automation work together.
+Demonstrates how **application architecture, infrastructure automation, and deployment pipelines** work together.
+
+**Repository:** `azure-fullstack-terraform`
 
 ---
 
-## 🥉 Azure Terraform Infrastructure Pipeline
+## 🥉 Azure Terraform DevSecOps Pipeline
 
-**Terraform + Azure DevOps + DevSecOps + Infracost**
+**Terraform + Azure DevOps + Security + Cost Awareness**
 
-Infrastructure pipeline implementing:
+Infrastructure delivery workflow:
 
 ```text
 Pull Request
-     ↓
+     │
+     ▼
 Validation
-     ↓
-TFLint
-     ↓
-TFSEC
-     ↓
-Checkov
-     ↓
-Infracost
-     ↓
-Terraform Plan
-     ↓
-Approval
-     ↓
-Terraform Apply
+     │
+     ├── TFLint
+     ├── TFSec
+     ├── Checkov
+     └── Infracost
+            │
+            ▼
+     Terraform Plan
+            │
+            ▼
+        Approval
+            │
+            ▼
+      Terraform Apply
 ```
 
 Focus: **secure, reviewable, automated infrastructure delivery.**
 
 ---
 
-## ☸️ Application & Kubernetes Deployments
+# ☸️ Kubernetes & Application Deployment
 
 Hands-on deployment experience across:
 
 * Dockerized applications
 * Kubernetes workloads
 * AKS
+* Kind
 * Helm
-* Application pipelines
 * Container registries
+* Application CI/CD
 * Frontend / Backend / Database architectures
-* Monitoring with Prometheus & Grafana
+* Prometheus & Grafana monitoring
+
+Typical application architecture:
+
+```text
+                    Users
+                      │
+                      ▼
+                 Frontend
+                      │
+                      ▼
+                  Backend
+                      │
+                      ▼
+                  Database
+```
+
+Applications have also been explored through **monolithic, 3-tier, and microservices deployment patterns**.
 
 ---
 
-# 🔥 Application Architecture Experience
+# 🔐 DevSecOps Approach
 
-I've worked with applications across multiple architectural patterns.
-
-### Monolithic
-
-```text
-┌─────────────────────────────┐
-│       Full Application      │
-│                             │
-│ Frontend + Backend + DB     │
-└─────────────────────────────┘
-```
-
-### 3-Tier
-
-```text
-        Users
-          │
-          ▼
-     ┌──────────┐
-     │ Frontend │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │ Backend  │
-     └────┬─────┘
-          │
-          ▼
-     ┌──────────┐
-     │ Database │
-     └──────────┘
-```
-
-### Microservices
-
-```text
-                    API Gateway
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-          ▼              ▼              ▼
-     Service A      Service B      Service C
-          │              │              │
-          └──────────────┼──────────────┘
-                         ▼
-                    Data Layer
-```
-
-This gives me practical exposure to the difference between **application architecture, infrastructure architecture, and deployment architecture.**
-
----
-
-# 🔐 DevSecOps Mindset
-
-Security should be part of the delivery lifecycle — not an activity performed after deployment.
+Security should be integrated into the delivery lifecycle rather than treated as a final deployment step.
 
 ```text
 Developer
     │
     ▼
-Git
+Git / GitHub
     │
     ▼
-CI/CD
+CI/CD Pipeline
     │
     ├── TFLint
-    ├── TFSEC
+    ├── TFSec
     ├── Checkov
     └── SonarQube
-          │
-          ▼
-      Validation
-          │
-          ▼
-      Terraform Plan
-          │
-          ▼
-       Approval
-          │
-          ▼
-       Deployment
+            │
+            ▼
+        Validation
+            │
+            ▼
+     Terraform Plan
+            │
+            ▼
+        Approval
+            │
+            ▼
+        Deployment
 ```
+
+The goal is to identify infrastructure, configuration, and code issues **before they reach production environments**.
 
 ---
 
 # 📊 Observability
 
-I believe:
-
 > **If you cannot observe it, you cannot operate it confidently.**
 
-Monitoring experience includes:
+Monitoring and observability experience includes:
 
 ```text
 Application
@@ -417,18 +349,25 @@ Grafana
 Metrics / Dashboards / Alerts
 ```
 
-Alongside Azure Monitor and Log Analytics for Azure resources and platform-level visibility.
+Alongside:
+
+* Azure Monitor
+* Log Analytics
+* Kubernetes monitoring
+* Infrastructure metrics
+* Application visibility
+* Alerting
 
 ---
 
-# 🧰 Production Troubleshooting Mindset
+# 🧰 Troubleshooting Mindset
 
-Some of the scenarios I work with include:
+I approach infrastructure and deployment failures by moving from **symptom → evidence → root cause → corrective action**.
 
 ### Terraform
 
+* Backend configuration issues
 * State locking
-* Backend configuration
 * Provider issues
 * Resource dependencies
 * Terraform drift
@@ -438,14 +377,14 @@ Some of the scenarios I work with include:
 
 ### Azure
 
-* VNet / subnet issues
+* VNet / Subnet issues
 * NSG configuration
 * IP allocation problems
 * VM connectivity
 * Load Balancer issues
 * Private Endpoint connectivity
-* Azure resource dependency failures
-* Authentication / authorization issues
+* Resource dependency failures
+* Authentication / Authorization issues
 
 ### Kubernetes
 
@@ -470,23 +409,35 @@ Some of the scenarios I work with include:
 
 ---
 
-# 🏛️ Infrastructure Philosophy
+# 🏛️ Engineering Philosophy
+
+I prefer infrastructure that is:
 
 ```text
-Infrastructure
-      │
-      ├── Reproducible
-      ├── Version Controlled
-      ├── Automated
-      ├── Secure
-      ├── Observable
-      ├── Scalable
-      └── Maintainable
+Reproducible
+     │
+     ▼
+Version Controlled
+     │
+     ▼
+Automated
+     │
+     ▼
+Secure
+     │
+     ▼
+Observable
+     │
+     ▼
+Scalable
+     │
+     ▼
+Maintainable
 ```
 
-I prefer infrastructure that can be:
+My approach:
 
-**created consistently → reviewed through code → deployed automatically → monitored continuously → recovered when things fail.**
+> **Build it → Automate it → Secure it → Deploy it → Observe it → Improve it**
 
 ---
 
@@ -494,22 +445,22 @@ I prefer infrastructure that can be:
 
 Good cloud engineering is not only about making infrastructure work.
 
-It also means understanding:
+I also consider:
 
 * Resource sizing
-* Storage costs
 * Public IP usage
+* Storage costs
 * Environment lifecycle
 * Unused resources
 * Monitoring costs
-* Infrastructure review
 * Cost estimation
+* Infrastructure optimization
 
 > **Reliability, security, performance, and cost should be considered together when designing cloud infrastructure.**
 
 ---
 
-# 📚 What I'm Continuously Improving
+# 📚 Currently Improving
 
 ```text
 Azure Architecture
@@ -535,44 +486,11 @@ Cloud Architecture
 
 My goal is to continuously move from:
 
-> **Knowing tools → Understanding systems → Designing platforms.**
+> **Knowing tools → Understanding systems → Designing platforms**
 
 ---
 
-# 🧩 Core Technology Map
-
-```text
-                    DEVOPS
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-      CLOUD          IaC            CI/CD
-        │              │              │
-      Azure        Terraform      Azure DevOps
-        │              │          GitHub Actions
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                 CONTAINERS
-                       │
-                 Docker / ACR
-                       │
-                 KUBERNETES
-                       │
-                  AKS / Helm
-                       │
-                 DEVSECOPS
-                       │
-          TFSEC / Checkov / TFLint
-                       │
-                OBSERVABILITY
-                       │
-          Prometheus / Grafana
-```
-
----
-
-# 🎯 What I Can Build
+# 🎯 What I Build
 
 ```text
 ☁️ Azure Cloud Infrastructure
@@ -587,37 +505,21 @@ My goal is to continuously move from:
 🌐 3-Tier Applications
 🧩 Monolithic Applications
 🔗 Microservices Deployments
-🧪 REST API Testing with Postman
+🧪 REST API Testing
 🖥️ Azure VM Infrastructure
-📦 Custom VM Images with Packer
+📦 Custom VM Images
 🗄️ Azure Database Infrastructure
 ```
 
 ---
 
-# 🌟 Engineering Principles
-
-> **Automate what is repeatable.**
-
-> **Secure what is exposed.**
-
-> **Monitor what is important.**
-
-> **Document what is complex.**
-
-> **Design for failure.**
-
-> **Learn from every deployment.**
-
----
-
 # 🤝 Open to Opportunities
 
-I'm interested in opportunities involving:
+Interested in opportunities involving:
 
 **DevOps · DevSecOps · Azure · Terraform · Kubernetes · CI/CD · Cloud Infrastructure · Platform Engineering**
 
-I enjoy working on problems where **infrastructure, automation, security, and applications come together.**
+I enjoy solving problems where **infrastructure, automation, security, applications, and observability** come together.
 
 ---
 
@@ -626,8 +528,6 @@ I enjoy working on problems where **infrastructure, automation, security, and ap
 > ### Building infrastructure is easy.
 >
 > ### Building infrastructure that is reproducible, secure, observable, scalable, and maintainable is engineering.
-
----
 
 ### 🚀 Build. Automate. Secure. Deploy. Observe. Improve.
 
