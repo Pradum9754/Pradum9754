@@ -119,7 +119,8 @@ Proven Results:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pradum9754&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pradum9754&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
