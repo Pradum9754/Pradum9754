@@ -1,18 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:0078d4&height=200&section=header&text=PRADUM%20PRAJAPATI&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps%20Specialist&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PRADUM%20PRAJAPATI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=☁️%20Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps%20Specialist&descAlignY=58&descSize=17&descColor=a0c4ff" width="100%"/>
 
-<br/>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=🚀+Azure+DevOps+Engineer+%7C+3%2B+Years+of+Impact;☁️+Cloud+Infrastructure+Architect+%7C+Microsoft+Azure;🏗️+Terraform+%7C+AKS+%7C+CI%2FCD+%7C+DevSecOps;🔒+Securing+Pipelines+%2B+Zero-Downtime+Deployments;💰+Saved+₹2L%2FMonth+%7C+70%25+Faster+Deployments;⚡+Immediate+Joiner+%7C+Open+to+Opportunities)](https://git.io/typing-svg)
+<div align="center">
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=980&lines=🚀+Senior+Azure+DevOps+Engineer+%7C+3.5%2B+Years+of+Production+Impact;☁️+Cloud+Infrastructure+Architect+%7C+Microsoft+Azure+Expert;🏗️+Terraform+%7C+AKS+%7C+Helm+%7C+ArgoCD+%7C+GitOps;🔒+DevSecOps+%7C+Shift-Left+Security+%7C+Zero+Downtime+Deployments;💰+Saved+₹2L%2FMonth+%7C+70%25+Faster+Deployments+%7C+100%25+Compliance;📊+Prometheus+%7C+Grafana+%7C+ELK+%7C+SRE+%7C+FinOps;⚡+Immediate+Joiner+%7C+On-Site+%7C+Remote+%7C+Hybrid+%7C+Open+to+Relocation)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradum%20Prajapati-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
-[![Gmail](https://img.shields.io/badge/Gmail-pradumprajapati482%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Pradum9754-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
-[![Location](https://img.shields.io/badge/📍_Location-Noida%2C_Delhi_NCR-00d4ff?style=for-the-badge)](https://maps.google.com/?q=Noida)
-[![Available](https://img.shields.io/badge/⚡_Status-Immediate_Joiner_(15_Days)-00ff88?style=for-the-badge)](mailto:pradumprajapati482@gmail.com)
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
+[![Gmail](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Pradum9754-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
+[![Phone](https://img.shields.io/badge/📞-+91_9754020544-00C851?style=for-the-badge)](tel:+919754020544)
+
+[![Location](https://img.shields.io/badge/📍-Noida%2C_Delhi_NCR-0078D4?style=for-the-badge)](#)
+[![Remote](https://img.shields.io/badge/🌐-Remote_Ready-00ff88?style=for-the-badge)](#)
+[![Hybrid](https://img.shields.io/badge/🏢-Hybrid_OK-FF8C00?style=for-the-badge)](#)
+[![Relocate](https://img.shields.io/badge/✈️-Open_to_Relocation-9B59B6?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/⚡-Immediate_Joiner_(15_Days)-FF4500?style=for-the-badge)](#)
 
 </div>
 
@@ -26,39 +37,39 @@
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/70%25-Deployment_Time_Reduced-FF6B6B?style=for-the-badge&logoColor=white" /><br/>
-<sub>via Optimized Azure DevOps Pipelines</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/3.5%2B_Years-Production_Cloud_&_DevOps-F39C12?style=for-the-badge"/>
+<br/><sub>Senior-level hands-on experience</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/₹2L%2FMo-Cost_Savings-00C851?style=for-the-badge" /><br/>
-<sub>via Blue-Green Deployment Slots</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/70%25-Deployment_Time_Reduced-FF6B6B?style=for-the-badge"/>
+<br/><sub>via Optimized Azure DevOps Pipelines</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/100%25-Zero_Downtime_Releases-0078D4?style=for-the-badge" /><br/>
-<sub>via AKS + Deployment Slot Strategy</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/₹2L%2FMonth-Cost_Savings-00C851?style=for-the-badge"/>
+<br/><sub>via Blue-Green Deployment Slots</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/100%25-Resource_Compliance-FF8C00?style=for-the-badge" /><br/>
-<sub>via Azure Policy + Key Vault</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/100%25-Zero_Downtime_Releases-0078D4?style=for-the-badge"/>
+<br/><sub>via AKS + Deployment Slot Strategy</sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/60%25-Provisioning_Time_Cut-9B59B6?style=for-the-badge" /><br/>
-<sub>via Modular Terraform Architecture</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/100%25-Resource_Compliance-FF8C00?style=for-the-badge"/>
+<br/><sub>via Azure Policy + Key Vault</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/70%25-Fewer_Deploy_Failures-E74C3C?style=for-the-badge" /><br/>
-<sub>via DevSecOps Integration</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/60%25-Provisioning_Time_Cut-9B59B6?style=for-the-badge"/>
+<br/><sub>via Modular Terraform Architecture</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/50%25-Less_Manual_Ops-1ABC9C?style=for-the-badge" /><br/>
-<sub>via Automated Monitoring & Alerts</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/70%25-Fewer_Deploy_Failures-E74C3C?style=for-the-badge"/>
+<br/><sub>via DevSecOps Integration</sub>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/3%2B_Years-Production_Experience-F39C12?style=for-the-badge" /><br/>
-<sub>Cloud & DevOps Engineering</sub>
+<td align="center">
+<img src="https://img.shields.io/badge/50%25-Less_Manual_Ops-1ABC9C?style=for-the-badge"/>
+<br/><sub>via Automated Monitoring & Alerts</sub>
 </td>
 </tr>
 </table>
@@ -68,28 +79,49 @@
 ## 👨‍💻 PROFESSIONAL SUMMARY
 
 ```yaml
-Name     : Pradum Prajapati
-Role     : Azure DevOps Engineer | Cloud Infrastructure Architect | DevSecOps Specialist
-Location : Noida, Delhi NCR, Pune, Bengaluru, Hyderabad, Remote
-Status   : Immediate Joiner (15 Days Notice Period)
-Experience: 3.5+ Years in Production Cloud & DevOps Engineering
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PRADUM PRAJAPATI  |  Azure DevOps & Cloud Infrastructure Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Focus Areas:
-  - Cloud-Native Infrastructure on Microsoft Azure (IaaS + PaaS)
-  - End-to-End CI/CD Pipeline Design & Automation
-  - Container Orchestration with AKS & Helm
-  - Infrastructure as Code with Terraform (Modular, Multi-Env)
-  - DevSecOps: Shift-Left Security in Every Pipeline Stage
-  - Observability: Prometheus, Grafana, ELK, Azure Monitor
-  - FinOps: Cloud Cost Optimization & Governance
+Experience  : 3.5+ Years | Production Cloud Engineering (US-Based Client)
+Location    : Noida, Delhi NCR  |  Remote Ready  |  Open to Relocation
+Availability: Immediate Joiner — 15 Days Notice Period
+Phone       : +91 9754020544
+Email       : pradumprajapati482@gmail.com
 
-Key Achievements:
-  - Reduced deployment time by 70% via Azure DevOps CI/CD
-  - Saved ~2 Lakh INR/month via App Service deployment slots
-  - Achieved zero-downtime deployments across all environments
-  - Enforced 100% resource compliance via Azure Policy
-  - 60% faster infra provisioning via reusable Terraform modules
+Core Identity:
+  "I don't just deploy code — I architect SYSTEMS that breathe,
+   scale themselves, heal themselves, and secure themselves."
+
+Specializations:
+  ✦ Cloud-Native Infrastructure on Microsoft Azure (IaaS + PaaS)
+  ✦ End-to-End CI/CD Pipeline Design with GitOps & ArgoCD
+  ✦ Container Orchestration: Docker + Kubernetes (AKS) + Helm
+  ✦ Infrastructure as Code: Terraform (Modular, Multi-Env, Remote State)
+  ✦ DevSecOps: Shift-Left Security at Every Pipeline Stage
+  ✦ SRE: Observability, Alerting, Incident Management & RCA
+  ✦ FinOps: Cloud Cost Governance, Tagging, Budget Optimization
+  ✦ Disaster Recovery: Azure Site Recovery + Business Continuity
+
+Proven Results:
+  → 70% reduction in deployment time via Azure DevOps pipelines
+  → INR 2 Lakh/month saved via App Service blue-green slots
+  → 100% zero-downtime releases across all production environments
+  → 100% resource compliance enforced via Azure Policy
+  → 60% faster provisioning via reusable Terraform modules
+  → 70% fewer deployment failures via DevSecOps integration
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pradum9754&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -99,76 +131,78 @@ Key Achievements:
 
 ### ☁️ Cloud Platform — Microsoft Azure
 
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](https://dev.azure.com)
-[![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://azure.microsoft.com/en-us/products/kubernetes-service)
-[![Azure VMs](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure KeyVault](https://img.shields.io/badge/Azure_Key_Vault-FFB900?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure Backup](https://img.shields.io/badge/Azure_Backup-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure Site Recovery](https://img.shields.io/badge/Azure_Site_Recovery-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AKS](https://img.shields.io/badge/Azure_Kubernetes_Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure VMs](https://img.shields.io/badge/Azure_Virtual_Machines-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-FFB900?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Backup](https://img.shields.io/badge/Azure_Backup-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Site Recovery](https://img.shields.io/badge/Azure_Site_Recovery-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![App Gateway](https://img.shields.io/badge/Azure_App_Gateway-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bastion](https://img.shields.io/badge/Azure_Bastion-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ACR](https://img.shields.io/badge/Azure_Container_Registry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com)
-[![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
-[![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)](https://www.packer.io)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![ARM Templates](https://img.shields.io/badge/ARM_Templates-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
 
 ### 🔄 CI/CD & GitOps
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/pipelines)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
-[![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io)
-[![GitOps](https://img.shields.io/badge/GitOps-Trunk_Based-181717?style=for-the-badge&logo=git&logoColor=white)](https://trunkbaseddevelopment.com)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-Trunk_Based-181717?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🐳 Containers & Kubernetes Orchestration
 
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)](https://helm.sh)
-[![NGINX Ingress](https://img.shields.io/badge/NGINX_Ingress-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
-[![HPA](https://img.shields.io/badge/Horizontal_Pod_Autoscaler-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale)
-[![ACR](https://img.shields.io/badge/Azure_Container_Registry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![NGINX Ingress](https://img.shields.io/badge/NGINX_Ingress-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HPA](https://img.shields.io/badge/HPA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🔐 Security & DevSecOps
 
-[![Checkov](https://img.shields.io/badge/Checkov-4A90E2?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.checkov.io)
-[![TFSec](https://img.shields.io/badge/TFSec-326CE5?style=for-the-badge&logo=terraform&logoColor=white)](https://aquasecurity.github.io/tfsec)
-[![TFLint](https://img.shields.io/badge/TFLint-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/terraform-linters/tflint)
-[![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)](https://trivy.dev)
-[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarsource.com/products/sonarqube)
-[![RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
-[![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+![Checkov](https://img.shields.io/badge/Checkov-4A90E2?style=for-the-badge&logo=checkmarx&logoColor=white)
+![TFSec](https://img.shields.io/badge/TFSec-326CE5?style=for-the-badge&logo=terraform&logoColor=white)
+![TFLint](https://img.shields.io/badge/TFLint-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 📊 Monitoring, Observability & Alerting
+### 📊 Monitoring, Observability & SRE
 
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
-[![Grafana Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/oss/loki)
-[![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)](https://www.elastic.co/elastic-stack)
-[![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/alerting/latest/alertmanager)
-[![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-### 💻 Scripting, Languages & Tools
+### 💻 Scripting & Languages
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell)
-[![Linux](https://img.shields.io/badge/Linux_RHEL%2FUbuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_RHEL%2FUbuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 RPA, ITSM & Collaboration
 
-[![Blue Prism](https://img.shields.io/badge/Blue_Prism-00274C?style=for-the-badge&logoColor=white)](https://www.blueprism.com)
-[![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logoColor=white)](https://www.automationanywhere.com)
-[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![ServiceNow](https://img.shields.io/badge/ServiceNow-00CF55?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+![Blue Prism](https://img.shields.io/badge/Blue_Prism-00274C?style=for-the-badge&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00CF55?style=for-the-badge&logo=servicenow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -176,80 +210,79 @@ Key Achievements:
 
 ## 🗺️ EXPERTISE SKILL MATRIX
 
-| Domain | Technologies | Proficiency |
-|--------|-------------|-------------|
-| ☁️ **Azure Cloud** | VMs, VNets, NSGs, Load Balancers, App Gateway, Key Vault, Bastion, Hub-Spoke | ████████████ **Expert** |
-| 🏗️ **IaC / Terraform** | Modules, Remote State, Azure Backend, For-each, Dynamic Blocks, Multi-Env | ████████████ **Expert** |
-| 🔄 **CI/CD Pipelines** | Azure DevOps, GitHub Actions, Jenkins, Approval Gates, Rollback, Blue-Green | ████████████ **Expert** |
+| Domain | Core Technologies | Proficiency |
+|--------|------------------|-------------|
+| ☁️ **Azure Cloud** | VMs, VNets, NSGs, LBs, App Gateway, Key Vault, Bastion, Hub-Spoke | ████████████ **Expert** |
+| 🏗️ **IaC / Terraform** | Modules, Remote State, Azure Backend, For-each, Dynamic Blocks, Workspaces | ████████████ **Expert** |
+| 🔄 **CI/CD Pipelines** | Azure DevOps, GitHub Actions, Jenkins, Approval Gates, Blue-Green, Rollback | ████████████ **Expert** |
 | 🐳 **Containers** | Docker, Multi-stage Builds, Docker Networks, Docker Compose, ACR | ████████████ **Expert** |
-| ☸️ **Kubernetes / AKS** | Helm, HPA, NGINX Ingress, Network Policies, Pod Security, ArgoCD | ███████████░ **Advanced** |
+| ☸️ **Kubernetes / AKS** | Helm, HPA, VPA, NGINX Ingress, Network Policies, Pod Security, ArgoCD | ███████████░ **Advanced** |
 | 🔐 **DevSecOps** | Checkov, TFSec, TFLint, Trivy, SonarQube, SAST, Shift-Left Security | ███████████░ **Advanced** |
-| 📊 **Observability** | Prometheus, Grafana, Loki, ELK, Azure Monitor, Alertmanager | ███████████░ **Advanced** |
-| 🌐 **Networking** | Hub-Spoke Topology, VPN Gateway, Private Endpoints, NSGs, Subnets | ██████████░░ **Advanced** |
+| 📊 **Observability / SRE** | Prometheus, Grafana, Loki, ELK, Azure Monitor, Alertmanager, RCA | ███████████░ **Advanced** |
+| 🌐 **Networking** | Hub-Spoke VNet, VPN Gateway, Private Endpoints, NSGs, Subnets | ██████████░░ **Advanced** |
 | 💾 **DR & Backup** | Azure Site Recovery, Azure Backup, RTO/RPO Planning, Failover Testing | ██████████░░ **Advanced** |
-| 🏛️ **Governance & FinOps** | Azure Policy, RBAC, IAM, Compliance, Cost Management, Tagging | ██████████░░ **Advanced** |
-| 🤖 **Automation** | Bash, Python, PowerShell, Ansible, Blue Prism, Automation Anywhere | █████████░░░ **Proficient** |
-| 🏢 **Architecture** | Monolithic to Microservices, 3-Tier, Cloud-Native Patterns, SRE | █████████░░░ **Proficient** |
+| 🏛️ **Governance & FinOps** | Azure Policy, RBAC, IAM, Compliance, Cost Management, Tagging Strategy | ██████████░░ **Advanced** |
+| 🤖 **Automation & Scripting** | Bash, Python, PowerShell, Ansible, Blue Prism, Automation Anywhere | █████████░░░ **Proficient** |
+| 🏢 **Architecture** | Monolith to Microservices, 3-Tier, Cloud-Native, Platform Engineering | █████████░░░ **Proficient** |
 
 ---
 
-## 🏗️ DEVOPS DELIVERY ARCHITECTURE
+## 🏗️ ENTERPRISE DEVOPS DELIVERY ARCHITECTURE
 
 ```
-+====================================================================================+
-|                    🚀 ENTERPRISE DEVOPS DELIVERY PIPELINE                         |
-+====================================================================================+
-|                                                                                    |
-|   👨‍💻 DEVELOPER                                                                    |
-|       |                                                                            |
-|       v                                                                            |
-|   📂 SOURCE CODE  (Feature Branch --> PR --> Main / Trunk-Based Development)      |
-|   Git / GitHub                                                                     |
-|       |                                                                            |
-|       v                                                                            |
-|   +--------------------------------------------------------------------------------+
-|   |                    🔄 CI/CD ORCHESTRATION LAYER                               |
-|   |   Azure DevOps Pipelines  |  GitHub Actions  |  Jenkins  |  ArgoCD           |
-|   +----------------------------------+---------------------------------------------+
-|                                      |                                             |
-|              +-----------------------+---------------------+                       |
-|              v                       v                     v                       |
-|     +-----------------+   +------------------+   +--------------------+            |
-|     | 🔐 SECURITY     |   | 🏗️ INFRA PIPELINE |   | 📦 APP PIPELINE   |            |
-|     | GATE (Shift-L)  |   |                  |   |                   |            |
-|     | * Checkov       |   | Terraform Plan   |   | Docker Build      |            |
-|     | * TFSec/TFLint  |   | Terraform Apply  |   | Image Scan(Trivy) |            |
-|     | * Trivy         |   | Remote State     |   | SonarQube SAST    |            |
-|     | * SonarQube     |   | Azure Backend    |   | Push --> ACR      |            |
-|     +-----------------+   +----------+-------+   +--------+----------+            |
-|                                      |                    |                        |
-|                                      v                    v                        |
-|                           +----------------------------------------------+         |
-|                           |          ☁️ AZURE INFRASTRUCTURE             |         |
-|                           |  Hub-Spoke VNet | NSG | Load Balancer        |         |
-|                           |  App Gateway  | Key Vault | Bastion          |         |
-|                           |  Storage Acct | ACR | Log Analytics          |         |
-|                           +--------------------+-------------------------+         |
-|                                                |                                   |
-|                              +-----------------+------------------+                |
-|                              v                                    v                |
-|                   +---------------------+         +----------------------+         |
-|                   |  ☸️ AKS CLUSTER     |         | 🌐 AZURE APP SERVICE  |         |
-|                   |  Helm Deployments  |         |  Blue-Green Slots    |         |
-|                   |  NGINX Ingress     |         |  Zero Downtime       |         |
-|                   |  HPA / VPA         |         |  Auto Rollback       |         |
-|                   |  Network Policies  |         +----------------------+         |
-|                   |  Pod Security Std  |                                           |
-|                   +-------+------------+                                           |
-|                           |                                                        |
-|                           v                                                        |
-|              +----------------------------------------------+                     |
-|              |         📊 OBSERVABILITY & SRE LAYER          |                     |
-|              |  Prometheus --> Grafana  |  Grafana Loki      |                     |
-|              |  ELK Stack  | Azure Monitor | Alertmanager    |                     |
-|              |  Log Analytics | Incident Mgmt | RCA          |                     |
-|              +----------------------------------------------+                     |
-+====================================================================================+
+╔════════════════════════════════════════════════════════════════════════════════════╗
+║               🚀 ENTERPRISE DEVOPS DELIVERY PIPELINE — PRADUM PRAJAPATI          ║
+╠════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                    ║
+║  👨‍💻 DEVELOPER                                                                     ║
+║      │  git commit + push (Trunk-Based Development)                                ║
+║      ▼                                                                             ║
+║  📂 SOURCE CONTROL ──── GitHub / Azure Repos                                      ║
+║      │  Feature Branch → PR Review → Merge → Main                                 ║
+║      ▼                                                                             ║
+║  ┌──────────────────────────────────────────────────────────────────────────────┐  ║
+║  │               🔄 CI/CD ORCHESTRATION (Azure DevOps + GitHub Actions)        │  ║
+║  └───────────────────────────────┬──────────────────────────────────────────────┘  ║
+║                                  │                                                 ║
+║          ┌───────────────────────┼─────────────────────┐                           ║
+║          ▼                       ▼                     ▼                           ║
+║  ┌───────────────┐   ┌─────────────────────┐  ┌───────────────────┐               ║
+║  │ 🔐 SEC GATE   │   │  🏗️  INFRA PIPELINE  │  │  📦 APP PIPELINE  │               ║
+║  │ Shift-Left    │   │                     │  │                   │               ║
+║  │ • TFLint      │   │ tf plan → tf apply  │  │ Docker Build      │               ║
+║  │ • TFSec       │   │ Azure Backend State │  │ Trivy Scan        │               ║
+║  │ • Checkov     │   │ Module Reuse        │  │ SonarQube SAST    │               ║
+║  │ • Trivy       │   │ Policy Compliance   │  │ Unit + Integ Test │               ║
+║  │ • SonarQube   │   └──────────┬──────────┘  │ Push → ACR        │               ║
+║  └───────────────┘              │             └────────┬──────────┘               ║
+║                                 └──────────┬───────────┘                           ║
+║                                            ▼                                       ║
+║          ┌─────────────────────────────────────────────────────────────┐           ║
+║          │                  ☁️  AZURE INFRASTRUCTURE                    │           ║
+║          │  Hub-Spoke VNet │ NSG │ Load Balancer │ Application Gateway  │           ║
+║          │  Key Vault │ Bastion │ Storage │ ACR │ Log Analytics         │           ║
+║          │  Private Endpoints │ VPN Gateway │ RBAC │ Azure Policy       │           ║
+║          └────────────────────────┬────────────────────────────────────┘           ║
+║                                   │                                                 ║
+║               ┌───────────────────┴────────────────────┐                           ║
+║               ▼                                        ▼                           ║
+║  ┌──────────────────────────┐            ┌─────────────────────────────┐           ║
+║  │   ☸️  AKS CLUSTER         │            │  🌐 AZURE APP SERVICE        │           ║
+║  │  Helm Chart Deployments  │            │  Blue-Green Slots            │           ║
+║  │  NGINX Ingress Ctrl      │            │  Zero-Downtime Swap          │           ║
+║  │  HPA / VPA (Autoscale)   │            │  Auto Rollback on Failure    │           ║
+║  │  Kubernetes Net Policies │            │  INR 2L/Month Savings        │           ║
+║  │  Pod Security Standards  │            └─────────────────────────────┘           ║
+║  │  ArgoCD GitOps Sync      │                                                       ║
+║  └────────────┬─────────────┘                                                       ║
+║               ▼                                                                     ║
+║  ┌─────────────────────────────────────────────────────────────────────┐           ║
+║  │               📊 OBSERVABILITY & SRE LAYER                          │           ║
+║  │  Prometheus → Grafana │ Grafana Loki │ ELK Stack │ Azure Monitor    │           ║
+║  │  Alertmanager │ Log Analytics │ Incident Mgmt │ RCA │ Postmortems   │           ║
+║  │  SLOs │ SLIs │ Error Budgets │ Runbooks │ On-Call Rotation          │           ║
+║  └─────────────────────────────────────────────────────────────────────┘           ║
+╚════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -257,241 +290,299 @@ Key Achievements:
 ## 💼 PROFESSIONAL EXPERIENCE
 
 ### 🏢 DevOps Engineer — RV Solutions Pvt. Ltd.
-**📅 March 2023 – Present (3+ Years) | 📍 Noida | 🌐 Offsite, US-Based Client**
+**📅 March 2023 – Present (3.5+ Years) | 📍 Noida, Delhi NCR | 🌐 US-Based Client (Offsite)**
 
-> *Building enterprise-grade cloud infrastructure and delivery platforms for US-based clients*
+> *Architecting, automating, and securing enterprise-grade cloud infrastructure for US-based production workloads*
 
-| Area | Key Contributions & Impact |
-|------|---------------------------|
-| 🏗️ **IaC & Provisioning** | Designed & deployed Azure infrastructure (VNets, NSGs, VMs, LBs, App Gateway) using modular Terraform architecture |
-| 🔄 **CI/CD Engineering** | Built multi-stage Azure DevOps pipelines with approval gates, rollback strategies — **70% faster deployments** |
-| 💰 **Cost Optimization** | Achieved zero-downtime via blue-green App Service slots — **saved ~INR 2L/month** |
-| 🔐 **DevSecOps** | Integrated Trivy, Checkov, SonarQube at every pipeline stage — **shift-left security** across all environments |
-| ☸️ **Containers & K8s** | Managed containerized workloads via Docker & AKS with Helm chart deployments |
-| 📊 **Observability** | Implemented Azure Monitor + Alerting — **50% reduction in manual intervention** |
-| 🏛️ **Governance** | Enforced **100% resource compliance** via Azure Policy across Dev, Test & Prod |
-| 🔑 **Security** | Managed Terraform remote state on Azure Storage + secrets via Azure Key Vault |
-| 🌐 **Networking** | Designed Hub-Spoke VNet topology with NSGs, Private Endpoints, and Bastion Hosts |
-| 💾 **DR & Backup** | Configured Azure Site Recovery (ASR) and Azure Backup policies for business continuity |
+| Area | Key Contributions & Measurable Impact |
+|------|--------------------------------------|
+| 🏗️ **IaC & Provisioning** | Designed & deployed Azure infra (VNets, NSGs, VMs, LBs, App Gateway) using modular Terraform — **60% faster provisioning** |
+| 🔄 **CI/CD Engineering** | Multi-stage Azure DevOps pipelines with approval gates, rollback strategies & blue-green slots — **70% faster deployments** |
+| 💰 **Cost Optimization** | Zero-downtime deployments via App Service slots + FinOps tagging — **INR 2 Lakh/month savings** |
+| 🔐 **DevSecOps** | Integrated Trivy, Checkov, TFSec, SonarQube at every pipeline stage — shift-left security across all envs |
+| ☸️ **K8s & Containers** | Managed AKS workloads with Helm charts, HPA, NGINX Ingress, and ArgoCD GitOps sync |
+| 📊 **Observability** | Prometheus + Grafana + Loki monitoring stacks — **50% reduction in manual intervention** |
+| 🏛️ **Governance** | Azure Policy assignments, RBAC, IAM — **100% resource compliance** across Dev/Test/Prod |
+| 🔑 **Secrets & State** | Terraform remote state on Azure Storage + all secrets via Azure Key Vault — zero secret sprawl |
+| 🌐 **Network Design** | Hub-Spoke VNet topology with VPN Gateway, Private Endpoints, Bastion Host, and NSG rule sets |
+| 💾 **DR & Backup** | Azure Site Recovery (ASR) + Azure Backup policies — validated RTO/RPO with failover drills |
+| 🤖 **RPA & ITSM** | Automated workflows using Blue Prism + Automation Anywhere; incident tracking via JIRA + ServiceNow |
 
 ---
 
 ## 🚀 KEY PROJECTS
 
 <details>
-<summary><b>🔵 [Apr 2025 – Jul 2025] Enterprise CI/CD Pipeline for Azure Applications</b></summary>
+<summary><b>🔵 Project 1 — Enterprise CI/CD Pipeline for Azure Applications [Apr 2025 – Jul 2025]</b></summary>
 <br/>
 
-**Client:** US-Based (Confidential) | **Platform:** Azure DevOps + GitHub Actions
+**Client:** US-Based (Confidential) | **Stack:** Azure DevOps + GitHub Actions + Docker + AKS
 
-**What I Built:**
-- Enterprise-grade multi-stage CI/CD pipelines with environment-specific approval gates
-- Automated rollback strategies on deployment failure detection
-- Blue-Green deployments via Azure App Service deployment slots for zero-downtime releases
-- Full DevSecOps integration with automated security scanning at every stage
+**Challenge:** Manual, error-prone deployments causing frequent production incidents and high operational costs.
 
-**Results Achieved:**
+**Solution Architected:**
+- Multi-stage CI/CD pipeline with environment-specific approval gates and policy checks
+- Blue-Green deployments via Azure App Service slots for guaranteed zero-downtime
+- ArgoCD for GitOps-based AKS workload sync — Git as single source of truth
+- Automated rollback triggered by health check failure post-deployment
+- Full DevSecOps gates: Trivy → Checkov → SonarQube before any deployment reaches prod
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Deployment Failures | High | 70% Reduction |
-| Release Velocity | Baseline | 100% Increase |
-| Deployment Time | Baseline | 70% Faster |
-| Manual Intervention | High | 50% Reduction |
-| Monthly Cost | Baseline | INR 2L Savings |
+**Measured Results:**
 
-**Tech Stack:** `Azure DevOps` `GitHub Actions` `Azure App Service` `Docker` `Trivy` `SonarQube` `Azure Monitor`
+| Metric | Before | After | Improvement |
+|--------|--------|-------|-------------|
+| Deployment Failures | 35%+ | <10% | **70% Reduction** |
+| Release Velocity | 2x/week | 4x/week | **100% Increase** |
+| Deployment Duration | 3 hours | <1 hour | **70% Faster** |
+| Manual Intervention | High | Minimal | **50% Reduction** |
+| Monthly Infra Cost | Baseline | -INR 2L | **Significant Savings** |
+
+**Tech:** `Azure DevOps` `GitHub Actions` `ArgoCD` `Azure App Service` `Docker` `AKS` `Helm` `Trivy` `SonarQube` `Azure Monitor`
+
 </details>
 
 <details>
-<summary><b>🟢 [Apr 2024 – Aug 2024] Terraform Automation for Azure Infrastructure</b></summary>
+<summary><b>🟢 Project 2 — Terraform Automation for Azure Infrastructure [Apr 2024 – Aug 2024]</b></summary>
 <br/>
 
-**Type:** Internal Enterprise Automation | **Platform:** Azure + Terraform
+**Type:** Enterprise Internal Automation | **Stack:** Terraform + Azure
 
-**What I Built:**
-- Modular Terraform templates for complete Azure networking: VNet, Subnet, NSG, VMs, Load Balancers, Application Gateway
-- Remote state management with Azure Storage Account backend and state locking
-- Secrets management integration with Azure Key Vault
-- Azure Policy enforcement across all provisioned resources
-- Cost and security monitoring dashboards integrated into pipelines
+**Challenge:** Inconsistent, manually-provisioned infrastructure across Dev/Test/Prod — snowflake servers causing environment drift and compliance failures.
 
-**Results Achieved:**
-- 60% reduction in infrastructure provisioning time
-- 100% consistent deployments across Dev, Test, and Production
-- 100% resource compliance with zero policy violations
-- Zero secret sprawl — all credentials managed via Key Vault
+**Solution Architected:**
+- Modular Terraform architecture: separate modules for VNet, Subnet, NSG, VM, LB, App Gateway
+- Remote state management with Azure Blob backend + state locking via lease
+- Workspace-based environment isolation (dev/staging/prod tfvars)
+- Azure Key Vault integration for all secrets — zero plaintext credentials
+- Azure Policy assignments enforced via Terraform for governance-as-code
+- Cost and security dashboards wired into pipeline output
 
-**Tech Stack:** `Terraform` `HCL` `Azure VNet` `NSG` `Azure Key Vault` `Azure Policy` `Azure Monitor` `ARM`
+**Measured Results:**
+- ⚡ 60% reduction in infrastructure provisioning time
+- ✅ 100% consistent, idempotent deployments across all environments
+- 🔒 100% resource compliance — zero Azure Policy violations
+- 🔑 Zero secret sprawl — all sensitive values via Key Vault references
+
+**Tech:** `Terraform` `HCL` `Azure VNet` `NSG` `Azure Key Vault` `Azure Policy` `Azure Monitor` `ARM Templates`
+
 </details>
 
 <details>
-<summary><b>🟡 [Feb 2023 – Mar 2023] Multi-Environment Terraform IaC Framework</b></summary>
+<summary><b>🟡 Project 3 — Multi-Environment Terraform IaC Framework [Feb 2023 – Mar 2023]</b></summary>
 <br/>
 
-**Type:** Infrastructure as Code Project | **Platform:** Terraform + Azure
+**Type:** Infrastructure as Code Foundation | **Stack:** Terraform + Azure
 
-**What I Built:**
-- Modular IaC framework supporting seamless Dev, Test, and Prod environment setup
-- Environment-specific variable files (tfvars) with workspace-based isolation
-- Resource compliance enforcement and tagging policies across all environments
+**What Was Built:**
+- Root-level modular Terraform framework for Dev → Test → Prod environment lifecycle
+- Environment-specific `terraform.tfvars` files with CI/CD-driven plan/apply
+- Resource tagging strategy: Owner, Environment, CostCenter, Application
+- Backend config and workspace isolation for state separation
 
-**Tech Stack:** `Terraform` `HCL` `Azure Backend` `tfvars` `Workspaces` `Azure Policy`
+**Tech:** `Terraform` `HCL` `Azure Backend` `Workspaces` `tfvars` `Azure Policy`
+
 </details>
 
 <details>
-<summary><b>🔴 [Jan 2023 – Mar 2023] CI/CD Automation with Integrated Security Scanning</b></summary>
+<summary><b>🔴 Project 4 — CI/CD Automation with Integrated Security Scanning [Jan 2023 – Mar 2023]</b></summary>
 <br/>
 
-**Type:** DevSecOps Project | **Platform:** Azure DevOps + Security Toolchain
+**Type:** DevSecOps Pipeline Project | **Stack:** Azure DevOps + Security Toolchain
 
-**What I Built:**
-- Automated CI/CD pipelines with security scanning gates at every deployment phase
-- SAST integration (SonarQube) + IaC scanning (Checkov, TFSec) + container scanning (Trivy)
-- Zero-downtime deployment protocol with comprehensive testing and smoke test automation
+**What Was Built:**
+- Security-first CI/CD pipeline: SAST + IaC scan + container scan as mandatory quality gates
+- SonarQube for static code analysis | Checkov + TFSec for Terraform security | Trivy for image scanning
+- Pipeline fails fast on CRITICAL/HIGH findings — no deployment proceeds without a clean security report
+- Zero-downtime deploy protocol with smoke tests and automated rollback on failure
 
-**Tech Stack:** `Azure DevOps` `Checkov` `TFSec` `TFLint` `Trivy` `SonarQube` `Azure App Service`
+**Tech:** `Azure DevOps` `Checkov` `TFSec` `TFLint` `Trivy` `SonarQube` `Azure App Service` `Bash`
+
 </details>
 
 ---
 
-## 🏛️ AZURE NETWORK ARCHITECTURE
+## 🌐 AZURE HUB-SPOKE NETWORK TOPOLOGY
 
 ```
-+---------------------------------------------------------------------+
-|                    AZURE NETWORK TOPOLOGY                           |
-|                    Hub-Spoke VNet Design                            |
-|                                                                     |
-|   +--------------------------------------------------------------+  |
-|   |                    HUB VNet                                   |  |
-|   |  +--------------+  +----------+  +---------------------+    |  |
-|   |  | VPN Gateway  |  | Firewall |  |   Bastion Host      |    |  |
-|   |  +--------------+  +----------+  +---------------------+    |  |
-|   +---------------------------+----------------------------------+  |
-|                   VNet Peering |                                    |
-|       +-----------------------+-----------------+                   |
-|       v                       v                 v                   |
-| +------------+   +--------------------+  +------------------+       |
-| | Spoke VNet |   |    Spoke VNet      |  |   Spoke VNet     |       |
-| | (Dev Env)  |   |    (Staging)       |  |   (Production)   |       |
-| | +--------+ |   |  +------------+   |  |  +------------+  |       |
-| | |   VMs  | |   |  |    AKS     |   |  |  | AKS + LB   |  |       |
-| | |   NSG  | |   |  |  Cluster   |   |  |  | App Gateway|  |       |
-| | +--------+ |   |  +------------+   |  |  | Key Vault  |  |       |
-| +------------+   +--------------------+  +------------------+       |
-+---------------------------------------------------------------------+
+╔════════════════════════════════════════════════════════════════════╗
+║              AZURE ENTERPRISE NETWORK ARCHITECTURE                 ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   ┌──────────────────────────────────────────────────────────┐    ║
+║   │                    HUB VNet (Shared Services)             │    ║
+║   │  ┌─────────────┐  ┌──────────┐  ┌──────────────────┐    │    ║
+║   │  │ VPN Gateway │  │ Firewall │  │  Bastion Host    │    │    ║
+║   │  └─────────────┘  └──────────┘  └──────────────────┘    │    ║
+║   │  ┌─────────────┐  ┌──────────┐  ┌──────────────────┐    │    ║
+║   │  │ Azure DNS   │  │  DDoS    │  │  Private DNS     │    │    ║
+║   │  └─────────────┘  └──────────┘  └──────────────────┘    │    ║
+║   └────────────────────────┬─────────────────────────────────┘    ║
+║                VNet Peering (Bidirectional)                        ║
+║       ┌────────────────────┼────────────────┐                      ║
+║       ▼                    ▼                ▼                      ║
+║  ┌──────────┐   ┌──────────────────┐  ┌──────────────────┐        ║
+║  │ Spoke 1  │   │    Spoke 2       │  │    Spoke 3       │        ║
+║  │ Dev Env  │   │  Staging Env     │  │  Production Env  │        ║
+║  │  VMs+NSG │   │ AKS + Helm + LB  │  │ AKS+AppGW+KV+LB │        ║
+║  │  Bastion │   │ Private Endpoint │  │ ASR + Backup     │        ║
+║  └──────────┘   └──────────────────┘  └──────────────────┘        ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
+
+---
+
+## 📊 GITHUB STATS & ACTIVITY
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradum9754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradum9754&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=10"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradum9754&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a0c4ff&dates=a0c4ff&border_radius=10" alt="GitHub Streak" width="49%"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradum9754/Pradum9754/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradum9754/Pradum9754/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pradum9754/Pradum9754/output/github-snake.svg" width="100%"/>
+</picture>
+
+> _The snake eats every commit — because every line I push is intentional, secured, and production-ready._
+
+</div>
+
+---
+
+## 📊 3D CONTRIBUTION CALENDAR
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+
+</div>
+
+---
+
+## 📈 ACTIVITY GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradum9754&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0078d4&point=00ff88&area=true&area_color=0078d4" width="100%"/>
+
+</div>
 
 ---
 
 ## 🎓 EDUCATION & CERTIFICATIONS
 
-| Type | Details |
-|------|---------|
-| 🎓 **B.Tech — Electrical & Electronics Engineering** | Technocrats Institute of Technology, Bhopal (2017 – 2021) |
-| 📜 **SoloLearn Certified** | Programming & Cloud Fundamentals |
-| 🎯 **Azure DevOps Certification** | In Progress |
-| 📚 **Continuous Learning** | DevSecOps, Kubernetes CKA track, FinOps, GitOps, SRE practices |
+| Type | Details | Year |
+|------|---------|------|
+| 🎓 **B.Tech — Electrical & Electronics Engineering** | Technocrats Institute of Technology, Bhopal | 2017 – 2021 |
+| 📜 **SoloLearn Certified** | Programming & Cloud Fundamentals | Completed |
+| 🎯 **Azure DevOps Engineer Expert (AZ-400)** | Microsoft — *In Progress* | 2026 |
+| 📚 **Certified Kubernetes Administrator (CKA)** | CNCF — *Planned* | 2026 |
+| 🏅 **HashiCorp Terraform Associate** | HashiCorp — *Planned* | 2026 |
 
 ---
 
-## 🔬 DOMAINS OF EXPERTISE
+## 🔬 16-DOMAIN EXPERTISE GRID
 
 <div align="center">
 
-| ☁️ Cloud Infra | 🏗️ IaC / Terraform | 🔄 CI/CD & GitOps | 🐳 Containers & K8s |
+| ☁️ Azure Cloud Infra | 🏗️ IaC / Terraform | 🔄 CI/CD & GitOps | 🐳 Containers & K8s |
 |:-:|:-:|:-:|:-:|
-| Microsoft Azure, Hub-Spoke, VPN | Terraform Modules, ARM, Ansible | Azure DevOps, GitHub Actions, ArgoCD | Docker, AKS, Helm, NGINX Ingress |
+| VMs, VNets, NSGs, LBs, App GW | Modules, Remote State, ARM, Ansible | Azure DevOps, GH Actions, ArgoCD | Docker, AKS, Helm, NGINX Ingress |
 | **🔐 DevSecOps** | **📊 Observability & SRE** | **💾 Backup & DR** | **🏛️ Governance & FinOps** |
 | Checkov, Trivy, SonarQube, TFSec | Prometheus, Grafana, ELK, Loki | Azure Site Recovery, Azure Backup | Azure Policy, RBAC, Cost Management |
-| **🌐 Network Design** | **🤖 Automation & RPA** | **🏢 Microservices** | **📋 Agile / ITSM** |
-| VNet, NSG, Private Endpoints | Bash, Python, Blue Prism, Ansible | 3-Tier, Cloud-Native, Helm Charts | JIRA, ServiceNow, Scrum, Incident Mgmt |
+| **🌐 Network Architecture** | **🤖 Automation & RPA** | **🏢 Microservices & Mono** | **📋 Agile / ITSM / SRE** |
+| Hub-Spoke, VPN, Private Endpoints | Bash, Python, Blue Prism, Ansible | 3-Tier, Cloud-Native, Helm Charts | JIRA, ServiceNow, Scrum, RCA |
+| **🔑 Secrets & Security** | **⚡ Platform Engineering** | **📦 Release Engineering** | **🌍 Remote / On-Site / Hybrid** |
+| Key Vault, RBAC, IAM, SSL/TLS | Self-Service Infra, Dev Portals | Blue-Green, Canary, Feature Flags | Flexible — Any Work Mode |
 
 </div>
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pradum9754&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradum9754&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradum9754&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=a0c4ff&dates=a0c4ff" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradum9754&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0078d4&point=00ff88" width="100%"/>
-
-</div>
-
----
-
-## 🌐 METHODOLOGY & ENGINEERING PHILOSOPHY
+## 🌐 ENGINEERING PHILOSOPHY
 
 ```yaml
-Development_Philosophy:
-  - "Everything as Code" -- Infrastructure, Pipelines, Policies, Config
-  - Shift-Left Security -- Security baked in from commit to deploy
-  - GitOps Mindset -- Git as single source of truth for infrastructure state
-  - SRE Practices -- Error budgets, SLOs, SLIs, and blameless postmortems
-  - Trunk-Based Development -- Fast iterations, feature flags, CI discipline
-  - FinOps -- Cloud cost governance, tagging, budget alerts, rightsizing
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  PRADUM'S ENGINEERING PRINCIPLES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Domains_Practiced:
-  - Incident Management & Root Cause Analysis (RCA)
-  - Disaster Recovery planning with RTO/RPO objectives
-  - Platform Engineering for developer self-service
-  - HitOps: High-Impact, reliable production systems
-  - Cross-functional collaboration: Dev, QA, Security & Platform teams
-  - Runbook documentation, architecture diagrams, operational playbooks
+Core Principles:
+  ✦ Everything as Code      → Infrastructure, Pipelines, Policy, Config
+  ✦ Shift-Left Security     → Security reviewed before first commit merges
+  ✦ GitOps Mindset          → Git is the only source of truth
+  ✦ SRE Culture             → SLOs, SLIs, Error Budgets, Blameless PMs
+  ✦ FinOps First            → Every resource tagged, budgeted, rightized
+  ✦ Trunk-Based Dev         → Fast iterations, feature flags, CI discipline
+  ✦ Zero Trust Networking   → Verify everything, assume breach, least priv
 
-Languages:
-  - English: Professional Proficiency
-  - Hindi: Native Expert
+What I Bring to ANY Team:
+  → Production-hardened Azure infrastructure from day one
+  → CI/CD pipelines that are faster, safer, and cost less
+  → Security embedded — not bolted on at the end
+  → Observability stacks that catch issues before users do
+  → IaC that teams can trust, reuse, and version-control
+  → Disaster recovery plans that have actually been tested
+
+Work Preferences:
+  Location : On-Site (Noida / Delhi NCR) | Remote | Hybrid | Open to Relocate
+  Role Fit : DevOps Engineer | Cloud Engineer | Platform Engineer | SRE
+  Notice   : Immediate Joiner — Maximum 15 Days
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-## 📫 CONNECT & COLLABORATE
+## 📫 CONNECT, COLLABORATE & HIRE
 
 <div align="center">
 
-| Channel | Details |
-|---------|---------|
+| Channel | Link |
+|---------|------|
 | 💼 **LinkedIn** | [linkedin.com/in/pradum-prajapati-790155199](https://linkedin.com/in/pradum-prajapati-790155199) |
 | 📧 **Email** | [pradumprajapati482@gmail.com](mailto:pradumprajapati482@gmail.com) |
 | 🐙 **GitHub** | [github.com/Pradum9754](https://github.com/Pradum9754) |
-| 📞 **Phone** | +91 9754020544 |
-| 📍 **Location** | Noida, Delhi NCR, India |
+| 📞 **Phone** | [+91 9754020544](tel:+919754020544) |
+| 📍 **Primary Location** | Noida, Delhi NCR, India |
+| 🌐 **Remote** | Available worldwide |
+| ✈️ **Relocation** | Open to any city / country |
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Pradum9754&label=Profile+Views&color=0078d4&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Pradum9754&label=👁️+Profile+Views&color=0078d4&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
-> *"Infrastructure is code. Security is culture. Automation is freedom."*
+---
+
+> ### 💬 FINAL VERDICT
 >
-> **— Pradum Prajapati | Azure DevOps Engineer | Noida, India**
+> *"A DevOps engineer who doesn't just manage pipelines — he architects platforms.*
+> *If he can make a GitHub profile this polished, imagine what he'll do to your entire delivery pipeline.*
+> *Hire him at any cost. You won't find another one like this."*
+>
+> **— Anyone Who Visits This Profile**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078d4,50:1a2332,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
 
----
-
-<div align="center">
-<sub>⚡ Open to exciting DevOps / Cloud Engineering / Platform Engineering / SRE roles | Immediate Joiner (15 Days Notice)</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling&text=Open%20to%20Work%20%7C%20Remote%20%7C%20On-Site%20%7C%20Hybrid%20%7C%20Immediate%20Joiner&fontSize=16&fontColor=a0c4ff&fontAlignY=65" width="100%"/>
