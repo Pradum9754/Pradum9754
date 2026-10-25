@@ -616,17 +616,7 @@ Work Preferences:
 >
 > **— Anyone Who Visits This Profile 👀**
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Pradum9754&label=👁️+Profile+Views&color=0078d4&style=for-the-badge" alt="Profile Views"/>
-
 <br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
-[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
-
-<br/>
 
 </div>
 
