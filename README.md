@@ -70,7 +70,7 @@
 ```yaml
 Name     : Pradum Prajapati
 Role     : Azure DevOps Engineer | Cloud Infrastructure Architect | DevSecOps Specialist
-Location : Noida, Delhi NCR
+Location : Noida, Delhi NCR, Pune, Bengaluru, Hyderabad, Remote
 Status   : Immediate Joiner (15 Days Notice Period)
 Experience: 3.5+ Years in Production Cloud & DevOps Engineering
 
