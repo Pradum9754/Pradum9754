@@ -480,15 +480,20 @@ Proven Results:
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradum9754&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0078d4&point=00ff88&area=true" width="100%" alt="Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradum9754&theme=tokyonight" width="100%" alt="Contribution Activity"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pradum9754&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pradum9754&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradum9754&theme=tokyonight" width="32%" alt="Most Commit Language"/>
 
 </div>
 
 ---
+
 
 ## 🎓 EDUCATION & CERTIFICATIONS
 
