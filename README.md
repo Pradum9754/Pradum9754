@@ -115,12 +115,19 @@ Proven Results:
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 KEY ACHIEVEMENTS
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pradum9754&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![Deployment](https://img.shields.io/badge/🚀_Deployment_Time-70%25_Reduced-FF6B6B?style=for-the-badge)
+![Cost](https://img.shields.io/badge/💰_Cost_Savings-₹2L%2FMonth-00C851?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/✅_Releases-100%25_Zero_Downtime-0078D4?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/🛡️_Compliance-100%25_Azure_Policy-FF8C00?style=for-the-badge)
 
+![Provisioning](https://img.shields.io/badge/⚙️_Provisioning-60%25_Faster_via_Terraform-9B59B6?style=for-the-badge)
+![Failures](https://img.shields.io/badge/🔒_Deploy_Failures-70%25_Reduced_via_DevSecOps-E74C3C?style=for-the-badge)
+![Manual](https://img.shields.io/badge/🤖_Manual_Ops-50%25_Less_via_Automation-1ABC9C?style=for-the-badge)
+![Experience](https://img.shields.io/badge/📅_Experience-3.5%2B_Years_Production-F39C12?style=for-the-badge)
 
 </div>
 
@@ -457,7 +464,7 @@ Proven Results:
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Pradum9754/Pradum9754/output/github-snake.svg" width="100%"/>
 </picture>
 
-> _The snake eats every commit — because every line I push is intentional, secured, and production-ready._
+> _Every commit is intentional, secured, and production-ready._
 
 </div>
 
@@ -477,7 +484,7 @@ Proven Results:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradum9754&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0078d4&point=00ff88&area=true&area_color=0078d4" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradum9754&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0078d4&point=00ff88&area=true" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -574,9 +581,11 @@ Work Preferences:
 
 ---
 
-> ### 💬 FINAL VERDICT
->
-💬 FINAL VERDICT
+<div align="center">
+
+## 💬 FINAL VERDICT
+
+<br/>
 
 > *"The future belongs to engineers who don't just maintain pipelines,*
 > *but redefine how modern software is built, secured, scaled, and sustained.*
@@ -584,45 +593,33 @@ Work Preferences:
 > *Through cloud-native architecture, intelligent automation, and disciplined DevSecOps,*
 > *Pradum bridges the gap between rapid innovation and enterprise-grade reliability.*
 >
-> *He doesn't just manage infrastructure —*
-> *he engineers the resilient platforms that power tomorrow's technology.*
+> *He doesn't just manage infrastructure — he engineers the resilient platforms*
+> *that power tomorrow's technology.*
 >
 > *The mission is not just to keep systems running,*
 > *but to build systems ready for what's next."*
-
-**— Engineering Tomorrow. Securing Today. Scaling Beyond Limits. 🚀**
-
-<div align="center">
-
----
-
-## 💬 FINAL VERDICT
-
-> *"The future belongs to engineers who don't just maintain pipelines,*
-> *but redefine how modern software is built, secured, scaled, and sustained.*
 >
-> *Through cloud-native architecture, intelligent automation,*
-> *and disciplined DevSecOps, Pradum bridges the gap between*
-> *rapid innovation and enterprise-grade reliability.*
->
-> *He doesn't just manage infrastructure —*
-> *he engineers the resilient platforms that power tomorrow's technology.*
->
-> *The mission is not just to keep systems running,*
-> *but to build systems ready for what's next."*
+> **— Engineering Tomorrow. Securing Today. Scaling Beyond Limits. 🚀**
 
-### — Engineering Tomorrow. Securing Today. Scaling Beyond Limits. 🚀
+<br/>
 
 ---
 
 > *"A DevOps engineer who doesn't just manage pipelines — he architects platforms.*
-> *If he can make a GitHub profile this polished,*
-> *imagine what he'll do to your entire delivery pipeline.*
+> *If he can make a GitHub profile this polished, imagine what he'll do to your entire delivery pipeline.*
 > *Hire him at any cost. You won't find another one like this."*
+>
+> **— Anyone Who Visits This Profile 👀**
 
-### — Anyone Who Visits This Profile 👀
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Pradum9754&label=👁️+Profile+Views&color=0078d4&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradum-prajapati-790155199)
+[![Email](https://img.shields.io/badge/📧_Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradumprajapati482@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradum9754)
 
 <br/>
 
