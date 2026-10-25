@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=980&lines=🚀+Senior+Azure+DevOps+Engineer+%7C+3.5%2B+Years+of+Production+Impact;☁️+Cloud+Infrastructure+Architect+%7C+Microsoft+Azure+Expert;🏗️+Terraform+%7C+AKS+%7C+Helm+%7C+ArgoCD+%7C+GitOps;🔒+DevSecOps+%7C+Shift-Left+Security+%7C+Zero+Downtime+Deployments;💰+Saved+₹2L%2FMonth+%7C+70%25+Faster+Deployments+%7C+100%25+Compliance;📊+Prometheus+%7C+Grafana+%7C+ELK+%7C+SRE+%7C+FinOps;⚡+Immediate+Joiner+%7C+On-Site+%7C+Remote+%7C+Hybrid+%7C+Open+to+Relocation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=980&lines=🚀+Azure+DevOps+Engineer+%7C+3.5%2B+Years+of+Production+Impact;☁️+Cloud+Infrastructure+Architect+%7C+Microsoft+Azure+Expert;🏗️+Terraform+%7C+AKS+%7C+Helm+%7C+ArgoCD+%7C+GitOps;🔒+DevSecOps+%7C+Shift-Left+Security+%7C+Zero+Downtime+Deployments;💰+Saved+₹2L%2FMonth+%7C+70%25+Faster+Deployments+%7C+100%25+Compliance;📊+Prometheus+%7C+Grafana+%7C+ELK+%7C+SRE+%7C+FinOps;⚡+Immediate+Joiner+%7C+On-Site+%7C+Remote+%7C+Hybrid+%7C+Open+to+Relocation)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,7 +39,7 @@
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/3.5%2B_Years-Production_Cloud_&_DevOps-F39C12?style=for-the-badge"/>
-<br/><sub>Senior-level hands-on experience</sub>
+<br/><sub>Hands-on production experience</sub>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/70%25-Deployment_Time_Reduced-FF6B6B?style=for-the-badge"/>
