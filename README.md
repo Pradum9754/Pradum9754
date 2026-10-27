@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PRADUM%20PRAJAPATI&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=☁️%20Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps%20Specialist&descAlignY=58&descSize=17&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=PRADUM&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=☁️%20Azure%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20DevSecOps%20Specialist&descAlignY=58&descSize=17&descColor=a0c4ff" width="100%"/>
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  PRADUM PRAJAPATI  |  Azure DevOps & Cloud Infrastructure Engineer
+  PRADUM  |  Azure DevOps & Cloud Infrastructure Engineer
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Experience  : 3.5+ Years | Production Cloud Engineering (US-Based Client)
@@ -239,7 +239,7 @@ Proven Results:
 
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════╗
-║               🚀 ENTERPRISE DEVOPS DELIVERY PIPELINE — PRADUM PRAJAPATI          ║
+║               🚀 ENTERPRISE DEVOPS DELIVERY PIPELINE — PRADUM                    ║
 ╠════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                    ║
 ║  👨‍💻 DEVELOPER                                                                     ║
@@ -564,7 +564,7 @@ Work Preferences:
 
 | Channel | Link |
 |---------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/pradum-prajapati-790155199](https://linkedin.com/in/pradum-prajapati-790155199) |
+| 💼 **LinkedIn** | [Connect on LinkedIn](https://linkedin.com/in/pradum-prajapati-790155199) |
 | 📧 **Email** | [pradumprajapati482@gmail.com](mailto:pradumprajapati482@gmail.com) |
 | 🐙 **GitHub** | [github.com/Pradum9754](https://github.com/Pradum9754) |
 | 📞 **Phone** | [+91 9754020544](tel:+919754020544) |
